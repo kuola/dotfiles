@@ -1,0 +1,11 @@
+{
+  // Name this configuration
+  "name": "Python learning experiences!",
+  // Use the base codespace image
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.8"
+    }
+  }
+}
